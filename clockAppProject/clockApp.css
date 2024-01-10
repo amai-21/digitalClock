@@ -1,0 +1,11 @@
+/*
+a box that is shaded in a dark color.
+ */
+#clock{
+    font-size:58px;
+    width:300px;
+    height:300px;
+    border-color:darkblue;
+    background-color:lightgray;
+    margin:auto;
+}
